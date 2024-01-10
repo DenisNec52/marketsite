@@ -1,0 +1,43 @@
+.profile{
+    height: 45px;
+    width: auto;
+    border-radius: 20px;
+}
+.container-fluid.jum{
+    background-color: #7550fe;
+    color: #bca8ff;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+.text{
+    width: 50%;
+    margin-left: 100px;
+}
+.image{
+    width: 50%;
+}
+.shadow.p-3.mb-5.bg-body-tertiary.rounded.sub{
+    margin-top: -45px;
+    background-color: white;
+}
+.card-img-top{
+    height: 146px;
+    width: auto;
+}
+.mona{
+    margin-top: 50px;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+.card-group{
+    margin: 30px;
+}
+.card.px-2.rounded-3{
+    margin: 10px;
+    border-color: black;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
